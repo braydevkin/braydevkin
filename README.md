@@ -32,8 +32,8 @@
 
  <h3 align='center'>Minhas redes sociais :mega:</h3>
 <p align="center">
- <a href='https://www.linkedin.com/in/brayanquirino/'><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="javascript" width="40" height="40"/><a/>
-      <a href='https://www.instagram.com/brayanqds/'><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="40" height="40"/><a/>
+ <a href='https://www.linkedin.com/in/brayanquirino/' target = '_blank'><img src="https://devicons.github.io/devicon/devicon.git/icons/linkedin/linkedin-original.svg" alt="javascript" width="40" height="40"/><a/>
+      <a href='https://www.instagram.com/brayanqds/' target = '_blank'><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" width="40" height="40"/><a/>
 </p>
       
 <h4 align='center'> :book: "Tudo posso naquele que me fortalece - Fp 4:13"</h4>
