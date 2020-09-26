@@ -8,6 +8,7 @@
 - 💬 Pode perguntar sobre <strong>Javascript, ReactJS e NodeJS.</strong>
 - 📫 brayan.molk5@gmail.com / easydtechnology@gmail.com.
 - ⚡ Em estudo constante...
+- 📱 +55 (12) 9 9608-7514 
 
 
 
