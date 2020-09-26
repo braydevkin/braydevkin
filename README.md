@@ -1,4 +1,4 @@
-<h1 align='center'>Hi Dev, meu nome Brayan Quirino 👋</h1>
+<h1 align='center'>Hi Dev, meu nome é Brayan Quirino 👋</h1>
 
 <h2 align='center'>Desenvolvedor Web Fulllstack :computer:</h2>
 
