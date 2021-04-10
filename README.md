@@ -24,7 +24,7 @@
         - Logs
         - ORM's (Mongoose, TypeORM)
         - Serviços de e-mail
-        - Recuperação de boles para sistemas de vendas
+        - Recuperação de boletos para sistemas de vendas
         - Rotinas funcionais
         - ...
     
