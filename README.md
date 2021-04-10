@@ -9,7 +9,7 @@
 - ⚡ Em estudo constante...
 - 📱 +55 (12) 9 9608-7514 
 
-- 💬 Pode perguntar sobre <strong>Javascript, ReactJS e NodeJS.</strong>
+- 💬 Pode perguntar sobre <strong>Javascript, Typescript, ReactJS e NodeJS.</strong>
 
 
 
