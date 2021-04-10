@@ -12,7 +12,8 @@
 - 💬 Pode perguntar sobre <strong>Javascript, ReactJS e NodeJS.</strong>
 
 
- - Backend (NodeJs)
+
+   - Backend (NodeJs)
         - NestJs
         - NextJs (Serverless Functions)
         - Api's REST
