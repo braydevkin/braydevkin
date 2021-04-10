@@ -78,6 +78,12 @@
       - Construção de sprints e tasks
       - Gerenciamento de qualidade e pessoas
       - SCRUM  
+
+    - I.A e Bots
+       -  Envio de directs no instagram
+       -  Google Dialogflow
+       -  Resposta automáticas no whatsapp
+       -  Reconhecimento de followers
 <p>&nbsp;</p>
 
 <h3 align='center'>Estástisticas Pessoais :bar_chart:</h3>
