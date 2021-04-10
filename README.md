@@ -1,6 +1,6 @@
 <h1 align='center'>Hi Dev, meu nome é Brayan Quirino 👋</h1>
 
-<h2 align='center'>Desenvolvedor Javascript Fulllstack :computer:</h2>
+<h2 align='center'>Desenvolvedor Web Fulllstack :computer:</h2>
 
 - 🔭 Prestador de serviços de  <strong>desenvolvimento web</strong>.
 - 🌱 Estudando <strong>Infraestrutura com AWS</strong> 
