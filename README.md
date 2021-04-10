@@ -73,6 +73,11 @@
         - Python
     
     - Gestão de equipes
+      - Gerenciamento de projeto
+      - Regras de negócio
+      - Construção de sprints e tasks
+      - Gerenciamento de qualidade e pessoas
+      - SCRUM  
 <p>&nbsp;</p>
 
 <h3 align='center'>Estástisticas Pessoais :bar_chart:</h3>
