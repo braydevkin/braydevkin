@@ -15,22 +15,22 @@
 
    - Backend (NodeJs)
         - NestJs
-        - NextJs (Serverless Functions)
         - Api's REST
         - Validação de entradas
-        - Autentificação com niveis de acesso
-        - Tratamento de erros
+        - Autenticação com niveis de acesso
         - Segurança
         - Logs
         - ORM's (Mongoose, TypeORM)
         - Serviços de e-mail
         - Recuperação de boletos para sistemas de vendas
         - Rotinas funcionais
+        - Filas 
         - ...
     
     - Frontend (React e ReactNative)
         - NextJs
         - Tailwind
+        - DaisyUI 
         - Componentes Atômicos
         - Componentes funcionais e em classe
         - Hooks
@@ -39,6 +39,7 @@
         - Tratamento de erros
         - Logs
         - SEO
+        - Contextos 
         - ...
     
     - Infraestrutura
@@ -55,7 +56,7 @@
     - Git
         - Gitflow
         - Tratamento de conflitos
-        - Gerenciamentode branchs (Develop, Staging, Master)
+        - Gerenciamento de branchs (Develop, Staging, Master)
     
     - Bancos de dados
         - MongoDB
@@ -81,6 +82,7 @@
 
     - I.A e Bots
        -  Envio de directs no instagram
+       -  Postagens automáticas em redes sociais
        -  Google Dialogflow
        -  Resposta automáticas no whatsapp
        -  Reconhecimento de followers
