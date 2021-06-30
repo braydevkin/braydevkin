@@ -27,7 +27,7 @@
         - Filas 
         - ...
     
-    - Frontend (React e ReactNative)
+    - Frontend (React/ReactNative, AngularJS)
         - NextJs
         - Tailwind
         - DaisyUI 
@@ -40,6 +40,7 @@
         - Logs
         - SEO
         - Contextos 
+        - Diretivas, binding, pipes
         - ...
     
     - Infraestrutura
