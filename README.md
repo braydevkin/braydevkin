@@ -5,7 +5,7 @@
 - 🔭 Prestador de serviços de  <strong>desenvolvimento web</strong>.
 - 🌱 Estudando <strong>Infraestrutura com AWS</strong> 
 
-- 📫 brayan.molk5@gmail.com / easydtechnology@gmail.com.
+- 📫 brayan.molk5@gmail.com / job.brquirino@gmail.com.
 - ⚡ Em estudo constante...
 - 📱 +55 (12) 9 9608-7514 
 
