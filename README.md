@@ -16,6 +16,7 @@
    - Backend (NodeJs)
         - NestJs
         - Api's REST
+        - GraphQL
         - Validação de entradas
         - Autenticação com niveis de acesso
         - Segurança
