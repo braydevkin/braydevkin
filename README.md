@@ -96,6 +96,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=braydevkin&show_icons=true" alt="braydevkin"/>
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydevkin&layout=compact&theme=midnight-purple" alt="Brayan Quirino most used languages" />
 
       
 <h4 align='center'> :book: "Tudo posso naquele que me fortalece - Fp 4:13"</h4>
