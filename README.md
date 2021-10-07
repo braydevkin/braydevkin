@@ -3,7 +3,7 @@
 <h2 align='center'>Desenvolvedor Web Fulllstack :computer:</h2>
 
 - 🔭 Product Developer Senior Analyst <strong>Concrete Solutions / Accenture</strong>.
-- 🌱 Estudando <strong>Infraestrutura clean architecture</strong> 
+- 🌱 Estudando <strong>clean architecture</strong> 
 - ✅ AWS Cloud Practitioner 
 
 - 📫 brayan.molk5@gmail.com / job.brquirino@gmail.com.
