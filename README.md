@@ -2,15 +2,15 @@
 
 <h2 align='center'>Desenvolvedor Web Fulllstack :computer:</h2>
 
-- 🔭 Product Developer Senior Analyst <strong>Concrete Solutions / Accenture</strong>.
-- 🌱 Estudando <strong>Clean Architecture</strong> 
-- ✅ AWS Cloud Practitioner 
+- 🔭  Product Developer Senior Analyst <strong>Concrete Solutions / Accenture</strong>.
+- 🌱  Estudando <strong>Clean Architecture</strong> 
+- ✅  AWS Cloud Practitioner 
 
-- 📫 brayan.molk5@gmail.com / job.brquirino@gmail.com.
-- ⚡ Em estudo constante...
-- 📱 +55 (12) 9 9608-7514 
+- 📫  brayan.molk5@gmail.com / job.brquirino@gmail.com.
+- ⚡  Em estudo constante...
+- 📱  +55 (12) 9 9608-7514 
 
-- 💬 Pode perguntar sobre <strong>Javascript, Typescript, ReactJS e NodeJS.</strong>
+- 💬  Pode perguntar sobre <strong>Javascript, Typescript, ReactJS e NodeJS.</strong>
 
 
 
