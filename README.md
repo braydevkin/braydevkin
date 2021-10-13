@@ -1,103 +1,90 @@
-<h1 align='center'>Hi Dev, meu nome é Brayan Quirino 👋</h1>
+<h2 align='center'>Hi Dev, my name is Brayan Quirino 👋</h2>
 
-<h2 align='center'>Desenvolvedor Web Fulllstack :computer:</h2>
+<h3 align='center'>Developer Web Fulllstack :computer:</h3>
 
-- 🔭  Product Developer Senior Analyst <strong>Concrete Solutions / Accenture</strong>.
-- 🌱  Estudando <strong>Clean Architecture</strong> 
-- ✅  AWS Cloud Practitioner 
+- Product Developer Senior Analyst <strong>Concrete Solutions / Accenture</strong>.
+- Studying and applying <strong>Clean Architecture</strong> 
+- job.brquirino@gmail.com
+- +55 (12) 9 9608-7514 / +55 (12) 9 9661-9272
 
-- 📫  brayan.molk5@gmail.com / job.brquirino@gmail.com.
-- ⚡  Em estudo constante...
-- 📱  +55 (12) 9 9608-7514 
+   ### Follow me 
+   <div style="display: flex; gap: 10px;">
+     <a href="https://www.linkedin.com/in/brayanquirino/" target="_blank">
+         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+     <a/>
+   <div/>
 
-- 💬  Pode perguntar sobre <strong>Javascript, Typescript, ReactJS e NodeJS.</strong>
-
-
-
-   - Backend (NodeJs)
-        - NestJs
-        - Api's REST
-        - GraphQL
-        - Validação de entradas
-        - Autenticação com niveis de acesso
-        - Segurança
-        - Logs
-        - ORM's (Mongoose, TypeORM)
-        - Serviços de e-mail
-        - Recuperação de boletos para sistemas de vendas
-        - Rotinas funcionais
-        - Filas 
-        - ...
+   ### Knowledges
+   <div style="display: flex; gap: 10px;">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+   <div/>
     
-    - Frontend (React/ReactNative, AngularJS)
-        - NextJs
-        - Tailwind
-        - DaisyUI 
-        - Componentes Atômicos
-        - Componentes funcionais e em classe
-        - Hooks
-        - Consumo de Api's
-        - Boas práticas para performance
-        - Tratamento de erros
-        - Logs
-        - SEO
-        - Contextos 
-        - Diretivas, binding, pipes
-        - ...
-    
-    - Infraestrutura
-        - AWS
-        - Hospedagem de arquivos (AWS S3)
-        - Envio de e-mails (SES)
-        - Sitemas escaláveis (AWS Beanstalk)
-        - Hospedagem de aplicações (AWS Ligthsail e AWS EC2)
-        - Hospedagem de sites (AWS Amplify, Vercel, Heroku, ...)
-        - Configuração de DNS (Cloudflare, ...)
-        - Configuração de SSL
-        - Hospedagem de aplicações e uma máquina linux crua (Hospedagem do zero)
-    
-    - Git
-        - Gitflow
-        - Tratamento de conflitos
-        - Gerenciamento de branchs (Develop, Staging, Master)
-    
-    - Bancos de dados
-        - MongoDB
-        - MySQL
-        - Postgress
-    
-    - Sistemas com autentificação/autorização
-        - JWT
-        - Firebase Authentication
-        - Níveis de acesso
-
-    - Linguagens de programção
-        - Typescript
-        - Javascript
-        - Python
-    
-    - Gestão de equipes
-      - Gerenciamento de projeto
-      - Regras de negócio
-      - Construção de sprints e tasks
-      - Gerenciamento de qualidade e pessoas
-      - SCRUM  
-
-    - I.A e Bots
-       -  Envio de directs no instagram
-       -  Postagens automáticas em redes sociais
-       -  Google Dialogflow
-       -  Resposta automáticas no whatsapp
-       -  Reconhecimento de followers
+    ### Cloud
+    <div style="display: flex; gap: 10px;">
+       <img src="https://img.shields.io/badge/Amazon_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Amazon_SES-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Amazon_Beanstalk-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Amazon_Ligthsail-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Amazon_Lambda-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Amazon_apigateway-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
+       <img src="https://img.shields.io/badge/google_cloud_functions-5183c2?style=for-the-badge&logo=google&logoColor=white"/>
+       <img src="https://img.shields.io/badge/google_dialogflow-5183c2?style=for-the-badge&logo=google&logoColor=white"/>
+    <div/>
+       
+     ### Certifications
+       
+     <div style="display: flex; gap: 10px; textDecoration: none;">
+        <a href="https://www.credly.com/badges/5bfd71f2-be0c-4e01-a21e-a6a6fea187bc/public_url" target="_blank">
+            <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=Amazon%20aws&logoColor=white"/>
+            <p> Click to verify <p/>
+        <a/>
+    <div/>
+              
+               
+     ### Experiences
+     
+     <div style="display: flex; gap: 10px;">
+       <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+       <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+       <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+    <div/>
+       
 <p>&nbsp;</p>
 
-<h3 align='center'>Estástisticas Pessoais :bar_chart:</h3>
+<h3 align='left'>Estástisticas Pessoais :bar_chart:</h3>
 
-<p align='center'>
+<p align='left'>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=braydevkin&show_icons=true" alt="braydevkin"/>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydevkin&layout=compact&theme=midnight-purple" alt="Brayan Quirino most used languages" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydevkin&layout=compact&theme=midnight-purple" alt="Brayan Quirino most used languages" />
 
       
 <h4 align='center'> :book: "Tudo posso naquele que me fortalece - Fp 4:13"</h4>
