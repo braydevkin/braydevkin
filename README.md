@@ -2,7 +2,7 @@
 
 <h3 align='center'>Developer Web Fulllstack :computer:</h3>
 
-- Product Developer Senior Analyst <strong>Concrete Solutions / Accenture</strong>.
+- Application Developer Senior Analyst <strong>Concrete Solutions / Accenture</strong>.
 - Studying and applying <strong>Clean Architecture</strong> 
 - job.brquirino@gmail.com
 - +55 (12) 9 9608-7514 / +55 (12) 9 9661-9272
