@@ -40,6 +40,7 @@
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MochaTest-323330?style=for-the-badge&logo=mocha&logoColor=F7DF1E%22"/>
    <div/>
     
     ### Cloud
@@ -78,13 +79,14 @@
        
 <p>&nbsp;</p>
 
-<h3 align='left'>Estástisticas Pessoais :bar_chart:</h3>
+<h3 align='left'>Personal Statistics :bar_chart:</h3>
+        
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=braydevkin&theme=algolia&no-bg=true&no-frame=true)        
+       
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=braydevkin&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="braydevkin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=braydevkin&show_icons=true&locale=en" alt="braydevkin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=braydevkin&" alt="braydevkin" /></p>
 
-<p align='left'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=braydevkin&show_icons=true" alt="braydevkin"/>
-</p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydevkin&layout=compact&theme=midnight-purple" alt="Brayan Quirino most used languages" />
 
       
 <h4 align='center'> :book: "Tudo posso naquele que me fortalece - Fp 4:13"</h4>
