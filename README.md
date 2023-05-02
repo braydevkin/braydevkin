@@ -5,7 +5,7 @@
 - Application Developer Senior Analyst <strong>Concrete Solutions / Accenture</strong>.
 - Studying and applying <strong>Clean Architecture</strong> 
 - job.brquirino@gmail.com
-- +55 (12) 9 9608-7514 / +55 (12) 9 9661-9272
+- +55 (12) 9 9608-7514 
 
    ### Follow me 
    <div style="display: flex; gap: 10px;">
