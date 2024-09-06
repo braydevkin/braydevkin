@@ -2,7 +2,7 @@
 
 <h3 align='center'>Developer Web Fulllstack :computer:</h3>
 
-- Application Developer Senior Analyst <strong>2am.tech</strong>.
+- Fullstack Developer Javascript at <strong>2am.tech</strong>.
 - job.brquirino@gmail.com
 - +55 (12) 9 9608-7514 
 
